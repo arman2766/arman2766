@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arman2766(Arman khan)
 - 👀 I’m interested in programming Language like <b>HTML CSS JAVASCRIPT JQUERY PHP MYSQL PYTHON C C++ JAVA.</b>
-- 🌱 I’m currently <b>Python</b>
+- 🌱  I’m currently learning <b>Python</b>
 - 💞️  I’m looking to become <b>Full Stack Developer</b>
 - 📫 How to reach me ...www.aramankhan.in
 
