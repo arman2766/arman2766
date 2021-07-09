@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arman2766
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @arman2766(Arman khan)
+- 👀 I’m interested in programming Language like <b>HTML CSS JAVASCRIPT JQUERY PHP MYSQL PYTHON C C++ JAVA.</b>
+- 🌱 I’m currently <b>Python</b>
+- 💞️  I’m looking to become <b>Full Stack Developer</b>
+- 📫 How to reach me ...www.aramankhan.in
 
 <!---
 arman2766/arman2766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
